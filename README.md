@@ -8,7 +8,7 @@ products:
 - azure-app-service
 ---
 
-nfjk
+
 
 # Python Flask sample for Azure App Service (Linux)
 
